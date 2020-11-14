@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Scheduler Request">e5e9c8901ba4ac1006f292c8af4bcb27</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>eduque</sys_created_by>
+        <sys_created_on>2020-11-13 19:14:59</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a12a04141b64e810484f968f034bcbc0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Scheduler Request.Users with 'snc_internal' role</sys_name>
+        <sys_package display_value="UCSD Scheduler" source="x_uocsd_scheduler">7c360cd81b64ac1006f292c8af4bcba9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="UCSD Scheduler">7c360cd81b64ac1006f292c8af4bcba9</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_a12a04141b64e810484f968f034bcbc0</sys_update_name>
+        <sys_updated_by>eduque</sys_updated_by>
+        <sys_updated_on>2020-11-13 19:14:59</sys_updated_on>
+        <user_criteria display_value="Users with 'snc_internal' role">d2d2e20557130300d873ac71ef94f9aa</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>

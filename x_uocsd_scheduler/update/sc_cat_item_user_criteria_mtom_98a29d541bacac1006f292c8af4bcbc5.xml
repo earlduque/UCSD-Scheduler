@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Timeslot Request">d377b0141be8ac1006f292c8af4bcb03</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>eduque</sys_created_by>
+        <sys_created_on>2020-11-14 00:31:39</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>98a29d541bacac1006f292c8af4bcbc5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Timeslot Request.Users with 'snc_external' role</sys_name>
+        <sys_package display_value="UCSD Scheduler" source="x_uocsd_scheduler">7c360cd81b64ac1006f292c8af4bcba9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="UCSD Scheduler">7c360cd81b64ac1006f292c8af4bcba9</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_98a29d541bacac1006f292c8af4bcbc5</sys_update_name>
+        <sys_updated_by>eduque</sys_updated_by>
+        <sys_updated_on>2020-11-14 00:31:39</sys_updated_on>
+        <user_criteria display_value="Users with 'snc_external' role">d4d97bf1db25c4946576785e0f96195c</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>

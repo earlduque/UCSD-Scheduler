@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Timeslot Request">d377b0141be8ac1006f292c8af4bcb03</catalog_item>
+        <catalog_variable>IO:0a0dfc9c1be8ac1006f292c8af4bcb98</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>eduque</sys_created_by>
+        <sys_created_on>2020-11-13 23:21:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>169245581b2cac1006f292c8af4bcbf8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>assigned_to</sys_name>
+        <sys_package display_value="UCSD Scheduler" source="x_uocsd_scheduler">7c360cd81b64ac1006f292c8af4bcba9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="UCSD Scheduler">7c360cd81b64ac1006f292c8af4bcba9</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_169245581b2cac1006f292c8af4bcbf8</sys_update_name>
+        <sys_updated_by>eduque</sys_updated_by>
+        <sys_updated_on>2020-11-13 23:21:37</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Read Only Fields">ad5281581b2cac1006f292c8af4bcbd2</ui_policy>
+        <variable>assigned_to</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>
